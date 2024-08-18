@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package net.kourlas.voipms_sms.conversation
+package com.nurmi.messaging
 
 import android.Manifest
 import android.annotation.SuppressLint
