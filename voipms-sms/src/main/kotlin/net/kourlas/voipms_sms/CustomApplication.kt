@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package net.kourlas.voipms_sms
+package com.nurmi.messaging
 
 import android.app.Application
 import android.net.ConnectivityManager
